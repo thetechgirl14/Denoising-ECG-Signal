@@ -1,1 +1,1 @@
-# ECG-Signal-Denoising-for-Apnea-Detection
+# Denoising-ECG-Signal
